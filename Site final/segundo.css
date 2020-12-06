@@ -1,0 +1,51 @@
+#titulo-principal {
+    background-color: cadetblue;
+    text-align: center;
+    font-style: oblique;
+    font-size: xxx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+     Geneva, Verdana, sans-serif;
+    } 
+
+    h2{
+        background-color:#f1e1cd;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+                text-align: center;
+    }
+
+
+    .h4{
+        background-color:#f1e1cd;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center; 
+    }
+
+    h5,h6,h7,h8{
+        display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    }
+
+   
+
+    #violino{
+             font-family: cursive;
+             float: left;
+    }
+
+    #violão{
+        font-family: cursive;
+        float: left;
+    }
+
+    #fim{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        background-color: cadetblue;
+    }
+
+    
